@@ -1,5 +1,3 @@
-<img width="993" height="389" alt="Screenshot 2026-11-21 at 8 43 22 AM" src="https://github.com/user-attachments/assets/106edb1d-be53-4bdf-8b63-b0ce4b14e0fb" /># Ex.No:1a  			Study of Socket Programming
-
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
