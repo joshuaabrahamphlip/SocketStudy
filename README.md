@@ -1,4 +1,4 @@
-# Ex. No:1b 			Study of Client Server Chat Applications
+[[# Ex. No:1b 			Study of Client Server Chat Applications
 
 ## Aim: 
 To perform a study on Client Server Chat Applications
@@ -150,3 +150,4 @@ client.close()
 ## Result:
 
 Thus the study on Client Server Chat Applications has been performed
+](https://github.com/joshuaabrahamphlip/ChatStudy.git)](https://github.com/joshuaabrahamphlip/ChatStudy.git)
